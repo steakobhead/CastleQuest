@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3BWzM8VeZUVKTcCJ7Szx5JCdMmOybYV/bgKebUWwzPc4wl6Br3IO5TgE+GZhUTNsa1e5v0v0K8vtnv2Q7ia70Q==",
+  "success": true,
+  "projectFilePath": "D:\\CastleQuest\\Castle Quest\\Castle Quest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacob\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
