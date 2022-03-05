@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CastleQuest\\Castle Quest\\Castle Quest.csproj": {}
+    "C:\\Users\\Emily\\Source\\Repos\\CastleQuest\\Castle Quest\\Castle Quest.csproj": {}
   },
   "projects": {
-    "D:\\CastleQuest\\Castle Quest\\Castle Quest.csproj": {
+    "C:\\Users\\Emily\\Source\\Repos\\CastleQuest\\Castle Quest\\Castle Quest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CastleQuest\\Castle Quest\\Castle Quest.csproj",
+        "projectUniqueName": "C:\\Users\\Emily\\Source\\Repos\\CastleQuest\\Castle Quest\\Castle Quest.csproj",
         "projectName": "Castle Quest",
-        "projectPath": "D:\\CastleQuest\\Castle Quest\\Castle Quest.csproj",
-        "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-        "outputPath": "D:\\CastleQuest\\Castle Quest\\obj\\",
+        "projectPath": "C:\\Users\\Emily\\Source\\Repos\\CastleQuest\\Castle Quest\\Castle Quest.csproj",
+        "packagesPath": "C:\\Users\\Emily\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emily\\Source\\Repos\\CastleQuest\\Castle Quest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emily\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
